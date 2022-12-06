@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 in this DDL( database definition language ) file we can see  how to create table ,Alter table and drop table)
 */
@@ -153,4 +154,6 @@ DROP COLUMN vehicleCondition;
 DROP table PROJECTS;
 DROP TABLE PRO;
 DROP TABLE projectPlan;
+=======
+>>>>>>> 5a16b2d569552bb04bbae21fadcb97eb0fc7e82f
 
