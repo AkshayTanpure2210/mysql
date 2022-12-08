@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
 in this DDL( database definition language ) file we can see  how to create table ,Alter table and drop table)
 */
