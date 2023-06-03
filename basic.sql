@@ -1,4 +1,4 @@
-show databases;                                            /* by using this commond we find all list of databases */
+-- show databases;                                            /* by using this commond we find all list of databases */
 
 use classicmodels;                                         /* whenever we want to use perticular database in our project thn firstly we apply USE commond and that database name */
 
