@@ -118,7 +118,7 @@
 -- DROP COLUMN vehicleCondition;
 
 
-
+edit file 
 
 
 
