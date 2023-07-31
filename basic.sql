@@ -1,16 +1,16 @@
--- show databases;                                            /* by using this commond we find all list of databases */
+show databases;                                            /* by using this commond we find all list of databases */
 
--- use classicmodels;                                         /* whenever we want to use perticular database in our project thn firstly we apply USE commond and that database name */
+use classicmodels;                                         /* whenever we want to use perticular database in our project thn firstly we apply USE commond and that database name */
 
--- show tables;                                               /* after using this database we want to see tables names thn we follow this commond */
+show tables;                                               /* after using this database we want to see tables names thn we follow this commond */
 
---use employees;                                             /* here we using employees table from classicmodels database */
+use employees;                                             /* here we using employees table from classicmodels database */
 
---select * from employees;                                   /* by using select query we select the column from that table */
+select * from employees;                                   /* by using select query we select the column from that table */
 
--- select firstName,lastName from employees;                  /* multiple column can access in single select commond */
+select firstName,lastName from employees;                  /* multiple column can access in single select commond */
 
--- select now ()  ;                                          /* using this select noe commond we get g=current date and time of that tables */
+select now ()  ;                                          /* using this select noe commond we get g=current date and time of that tables */
 
 
 
